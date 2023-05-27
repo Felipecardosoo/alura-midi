@@ -29,14 +29,10 @@ O MIDI tem um teclado digitial com 9 botões, cada botão reproduzirá o som de 
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final do curso em funcionamento](https://aluramidi-curso.vercel.app/).
+[Veja o projeto final do curso em funcionamento](https://felipecardosoo.github.io/alura-midi/).
 
 Neste repositório você tem acesso a todo o material produzido no curso.
 
 ## 🛠️ Abrir e rodar o projeto
 
 Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
-
-## 📚 Mais informações do curso
-
-Busque na plataforma da Alura o curso **JavaScript para web: crie páginas dinâmicas** publicado na Escola Frontend.
